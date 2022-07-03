@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "task": "eat",
+      "status": true,
+      "id": 0
+    },
+    {
+      "task": "sleep",
+      "status": false,
+      "id": 1
+    },
+    {
+      "task": "work",
+      "status": false,
+      "id": 2
+    }
+  ]
+}
